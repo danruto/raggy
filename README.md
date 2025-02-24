@@ -1,2 +1,2 @@
 # raggy
-Experimenting with LangChain and Streamlit
+Experimenting with building a RAG using LangChain and Streamlit
